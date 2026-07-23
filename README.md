@@ -6,9 +6,7 @@
 
 ## Sobre mí
 
-Me interesa el punto donde los datos se convierten en decisiones: análisis, modelos y las aplicaciones que los ponen en manos de las personas. Actualmente construyo bases sólidas en programación orientada a objetos, bases de datos y desarrollo web, mientras exploro cómo las herramientas de IA cambian la forma de escribir software.
-
----
+Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial en ESPOL. Me interesa desarrollar soluciones con un uso real y concreto: hasta ahora, un sistema de gestión para una academia de artes marciales y una plataforma de empleo. Actualmente me formo en Java, bases de datos y desarrollo web. ---
 
 ## Tecnologías
 
