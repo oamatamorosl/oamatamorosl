@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial en ESPOL. Me interesa desarrollar soluciones con un uso real y concreto: hasta ahora, un sistema de gestión para una academia de artes marciales y una plataforma de empleo. Actualmente me formo en Java, bases de datos y desarrollo web. ---
+Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial en ESPOL. Me interesa desarrollar soluciones con un uso real y concreto: hasta ahora, un sistema de gestión para una academia de artes marciales y una plataforma de empleo. Actualmente me formo en Java, bases de datos y desarrollo web. 
 
 ## Tecnologías
 
