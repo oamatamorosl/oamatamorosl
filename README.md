@@ -1,4 +1,4 @@
-# Hola, soy Oscar Matamoros 👋
+# Hola, soy Oscar Matamoros 
 
 **Estudiante de Ingeniería en Ciencia de Datos e Inteligencia Artificial** — ESPOL, Guayaquil 🇪🇨
 
