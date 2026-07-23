@@ -59,9 +59,3 @@ Plataforma web que conecta trabajadores y contratantes en Ecuador. Construida en
 ## Contacto
 
 [![Email](https://img.shields.io/badge/oamatamorosuni@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oamatamorosuni@gmail.com)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oamatamorosl&show_icons=true&theme=default&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
