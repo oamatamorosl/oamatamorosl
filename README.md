@@ -41,8 +41,8 @@ App web para seguir en tiempo real los buses de ESPOL, construida con **React**,
 - Resumen de reseñas de conductores con IA (**Google Gemini**) mediante una Edge Function
 - Planificador semanal de rutas con reglas automáticas de asignación
 - Arquitectura limpia (Clean Architecture) con 35 pruebas automatizadas
-[<!-- 👉 Oscar: pega aquí el enlace del repositorio de SAFER -->
-](https://github.com/oamatamorosl/HACKATON-NZT)
+- https://github.com/oamatamorosl/HACKATON-NZT
+
 ### 🥊 [FightScout](https://github.com/oamatamorosl/FightScout)
 Plataforma de scouting de MMA y boxeo que conecta a peleadores latinoamericanos con managers, promotores y entrenadores. Proyecto capstone del bootcamp fullstack.
 
