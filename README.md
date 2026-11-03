@@ -59,8 +59,6 @@ Estudiante de Ingeniería en Ciencia de Datos e IA en la ESPOL, cursando en para
 App web para seguir en tiempo real los buses de ESPOL, construida con **React**, **TypeScript** y **Supabase**.
 
 - Seguimiento del bus en vivo sobre OpenStreetMap, con tiempo estimado de llegada y aforo calculado por QR
-- Resumen de reseñas de conductores con IA (**Google Gemini**) mediante una Edge Function
-- Planificador semanal de rutas con reglas automáticas de asignación
 - Arquitectura limpia (Clean Architecture) con 35 pruebas automatizadas
 
 ### 🥊 [FightScout](https://github.com/oamatamorosl/FightScout)
