@@ -8,9 +8,7 @@
 
 ## Sobre mí
 
-Estudiante de Ingeniería en Ciencia de Datos e IA en ESPOL, cursando en paralelo un bootcamp fullstack. Me interesa construir software que resuelva problemas reales y llevarlo de la idea al producto funcional: desde una plataforma de empleo premiada hasta una app de transporte universitario en tiempo real con IA.
-
-Trabajo principalmente con **Python, TypeScript, Java y SQL**, y manejo inglés a nivel C2.
+Estudiante de Ingeniería en Ciencia de Datos e IA en la ESPOL, cursando en paralelo el Coding Bootcamp Fullstack de ESPOL. Ganador regional del 593 Challenge (Guayas) —donde lideré la construcción de una plataforma con TypeScript, HTML, CSS e IA aplicada— y del premio al Mejor Proyecto de IA de Código Abierto en Hacktoberfest Hack Day Guayaquil. Trabajo con Python, Java, SQL y desarrollo web, y construyo proyectos funcionales de extremo a extremo.
 
 ## Tecnologías
 
@@ -26,7 +24,6 @@ Trabajo principalmente con **Python, TypeScript, Java y SQL**, y manejo inglés 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -44,9 +41,8 @@ App web para seguir en tiempo real los buses de ESPOL, construida con **React**,
 - Resumen de reseñas de conductores con IA (**Google Gemini**) mediante una Edge Function
 - Planificador semanal de rutas con reglas automáticas de asignación
 - Arquitectura limpia (Clean Architecture) con 35 pruebas automatizadas
-
-<!-- 👉 Oscar: pega aquí el enlace del repositorio de SAFER -->
-
+[<!-- 👉 Oscar: pega aquí el enlace del repositorio de SAFER -->
+](https://github.com/oamatamorosl/HACKATON-NZT)
 ### 🥊 [FightScout](https://github.com/oamatamorosl/FightScout)
 Plataforma de scouting de MMA y boxeo que conecta a peleadores latinoamericanos con managers, promotores y entrenadores. Proyecto capstone del bootcamp fullstack.
 
