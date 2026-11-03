@@ -32,7 +32,7 @@ Estudiante de Ingeniería en Ciencia de Datos e IA en la ESPOL, cursando en para
 
 ## Proyectos
 
-### 🚌 SAFER — Trazabilidad y aforo del transporte universitario
+### 🚌 [SAFER — Trazabilidad y aforo del transporte universitario](https://github.com/oamatamorosl/HACKATON-NZT)
 > 🏆 **Best Open-Source AI Project** · Hacktoberfest Hack Day Guayaquil x IEEE-HKN Nu Zeta Chapter (octubre 2026)
 
 App web para seguir en tiempo real los buses de ESPOL, construida con **React**, **TypeScript** y **Supabase**.
@@ -41,7 +41,6 @@ App web para seguir en tiempo real los buses de ESPOL, construida con **React**,
 - Resumen de reseñas de conductores con IA (**Google Gemini**) mediante una Edge Function
 - Planificador semanal de rutas con reglas automáticas de asignación
 - Arquitectura limpia (Clean Architecture) con 35 pruebas automatizadas
-- https://github.com/oamatamorosl/HACKATON-NZT
 
 ### 🥊 [FightScout](https://github.com/oamatamorosl/FightScout)
 Plataforma de scouting de MMA y boxeo que conecta a peleadores latinoamericanos con managers, promotores y entrenadores. Proyecto capstone del bootcamp fullstack.
