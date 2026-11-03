@@ -93,7 +93,6 @@ Plataforma web que conecta trabajadores y contratantes en Ecuador, construida en
 - ⚛️ **React** y **TypeScript** para desarrollo web moderno
 - 🗄️ **Supabase / PostgreSQL** y modelado de bases de datos
 - 🐍 **Python** aplicado a análisis y ciencia de datos
-- ☕ **Java** y Programación Orientada a Objetos
 
 ---
 
